@@ -27,3 +27,8 @@ A modern and animated e-commerce landing page for **eetrade**, a fresh produce a
 - **Scroll-reveal animations** — fade-up and zoom-in effects triggered on scroll
 - Dark footer with social icons (Facebook, Twitter, Instagram)
 - Fully responsive across all screen sizes
+
+---
+
+⚠️ This template was originally created by Mohammed Sabry
+credit is required: github.com/Mohammedsabry13

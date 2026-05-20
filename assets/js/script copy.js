@@ -1,3 +1,9 @@
+//  * ALFA HUBS - CUSTOM JAVASCRIPT
+//  * @author Mohammed Sabry (Mohammedsabry13)
+//  * @github https://github.com/Mohammedsabry13
+//  * @copyright 2026 Mohammed Sabry. All rights reserved.
+//  * Pure JavaScript with Bootstrap 5
+
 document.addEventListener("DOMContentLoaded", () => {
   // Dark Mode Toggle
   const darkModeToggle = document.getElementById("darkModeToggle");
@@ -102,7 +108,7 @@ document.addEventListener("DOMContentLoaded", () => {
     particles = [];
     const particleCount = Math.min(
       100,
-      Math.floor((canvas.width * canvas.height) / 15000)
+      Math.floor((canvas.width * canvas.height) / 15000),
     );
     for (let i = 0; i < particleCount; i++) {
       particles.push(new Particle());
@@ -215,9 +221,6 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     });
   });
-
-
-
 
   // Add typing effect to hero title
   const heroTitle = document.querySelector(".hero-bg h1");
